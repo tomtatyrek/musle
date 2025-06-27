@@ -1,2 +1,2 @@
-# mushle
+# musle
 Shell prostředí v češtině
